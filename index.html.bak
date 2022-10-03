@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="pt-br">
+
+	<head>
+	
+		<meta charset="utf-8">
+		<meta name="keywords"  content="Cursos, treinamentos, EAD">
+		<meta name="description" content="Cursos gratuitos">
+		<meta name="author" content="Samuel">
+		<title>natalina</title>
+		
+		<link href=".\_css\estilo.css" rel="stylesheet" type="text/css" media="all">
+		
+	</head>
+	
+	
+<body >
+
+	<header>	
+		<figure>
+			<div id="logo">
+				<img src=".\_imagens\logo.png" width="50px">		
+			</div>
+			<h1 id="cabeçalho">Natalina</h1>	
+			
+		</figure>
+	</header>
+	
+	<aside>
+		<div id="menuesquerda">
+			<h2>Arvore de natal mais vendida</h2>
+			<figure >
+				<img src=".\_imagens\24313.jpg" width="200px" >
+			</figure>
+		</div>
+	</aside>
+	
+	<section>
+	
+		<div id="artigo">
+			<article>
+				<header>
+					<h2>Arvore de natal</h2>
+					<time datetime="2022-2-28" pubdate="pubdate"><i>28 de fevereriro de 2022</i></time>	
+				</header>
+					<h3>Tradição da arvore</h3>
+				<p>A tradição de usar árvores para decorar as casas remonta à antiguidade. Egípcios, celtas, romanos e até mesmo os vikings costumavam trazer essas plantas para dentro de casa.As árvores eram usadas como decoração no solstício de inverno e simbolizavam que, ao final dessa estação, o sol iria reaparecer e as plantas voltariam a crescer.Mas apesar de já serem usadas há séculos, foi por volta dos anos 1500 que as árvores de natal tornaram-se um costume cristão. Historiadores atribuem essa tradição à Martinho Lutero. germânicos, nessa época, tinham o hábito de decorar as casas com pirâmides de madeira e folhas de árvores. De acordo com a lenda, enquanto caminhava pela floresta, Lutero ficou encantado com a visão de um pinheiro coberto de neve e sob o brilho das estrelas no céu.Quando chegou em casa, tentou reproduzir para seus familiares a linda imagem que havia visto, usando galhos de um pinheiro, algodões (para simbolizar a neve) e algumas velas imitando as estrelas.A tradição da árvore de Natal não se espalhou rapidamente pela Europa. Foi somente em 1846, após a publicação de uma ilustração da rainha Victória e do príncipe Albert com seus filhos envolta de uma árvore de natal cheia de presentes, que pessoas de outros países passaram a utilizá-la.</p>
+				
+				<h3>PINHEIRO COMO ÁRVORE DE NATAL</h3>
+				<p>Na Europa Central, a árvore mais usada é o pinheiro conhecido como Nordmanntanne, originário do Cáucaso. A popularidade do Nordmanntanne tem um motivo simples: os seus galhos não picam. Além dele, em alguns outros lugares é usado árvores como abeto, pinho, buxo, azevinho e zimbro.Existe a ilusão de que o pinheiro de Natal é um produto natural da floresta. A realidade é preocupante, já que árvore é uma raridade na floresta. Nos dias de hoje, os pinheiros e abetos crescem em plantações. Na Alemanha e na Áustria, existem terras agrícolas separadas para o plantio das árvores de Natal. No entanto, uma boa parte ainda é importada, e a Dinamarca é a líder de mercado. Na Alemanha, as árvores de Natal são cultivadas em cerca de 15000 hectares e cerca de 70% das necessidades de consumo interno são cobertas.As sementes da Nordmanntanne vem do Cáucaso e “crescem” na Alemanha a partir de viveiros especializados. Com uns três anos as mudas são transferidas para o campo. Até que as árvores façam sua grande apresentação com luzes brilhantes nas salas de estar na Alemanha, elas têm até dez anos de tratamento intensivo por trás.Somente na Alemanha, cerca de 25 milhões de árvores de Natal são comercializadas por ano.</p>
+			
+			<footer>
+				<p>www.natalina.com</p>
+			</footer>
+			
+			</article>
+		</div>
+	</section>
+	
+	<nav>
+		<div id="menu">
+			<p>
+			<ul class="elemento-ul">
+				<li class="elemento-li"><a href="index.html"> Home </a> </li>
+				<li class="elemento-li"><a>Sobre-nos</a></li>
+				<li class="elemento-li"><a>Contanto</a></li>
+				<li class="elemento-li"><a>Produtos</a></li>
+			</ul>	
+			</p>
+		</div>
+	</nav>
+	
+	<footer id="rodape">
+		<p>Feito por samuelcarvalho000@hotmail.com</p>
+	</footer>
+</body>
+	
+	
+	
+	
+	
+</html>
